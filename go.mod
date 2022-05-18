@@ -1,4 +1,4 @@
-module github.com/free5gc/flowdesc
+module github.com/omec-project/flowdesc
 
 go 1.14
 

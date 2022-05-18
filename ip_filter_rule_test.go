@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/free5gc/flowdesc"
+	"github.com/omec-project/flowdesc"
 )
 
 func TestIPFilterRuleEncode(t *testing.T) {
